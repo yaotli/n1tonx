@@ -1,0 +1,176 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=74;
+	taxlabels
+	1001082-DQ914814__A_chicken_Shanxi_2_2006__H5N1__China__2006[&!color=#ff00ff]
+	1001160-EF587277__A_Beijing_01_2003__H5N1__China__2003[&!color=#ff00ff]
+	1002012-EU430496__A_domestic_green_winged_teal_Hunan_67_2005__H5N1__China__2005[&!color=#996633!name="430511"]
+	1002161-EU430511__A_domestic_green_winged_teal_Hunan_79_2005__H5N1__China__2005[&!color=#996633!name="430511"]
+	1004264-DQ343150__A_chicken_Hebei_326_2005__H5N1__China__2005[&!color=#ff00ff]
+	1004460-EU195408__A_mallard_Huadong_hn_2005__H5N1__China__2005
+	1004816-GU182238__A_environment_Hunan_2_16_2007__H5N1__China__2007-04[&!color=#996633!name="182238"]
+	1004819-GU182222__A_environment_Hunan_1_35_2007__H5N1__China__2007-03[&!color=#996633!name="182238"]
+	1004822-GU182230__A_environment_Hunan_1_12_2007__H5N1__China__2007-03[&!color=#996633!name="182238"]
+	1007805-HM172092__A_chicken_Jiangsu_18_2008__H5N1__China__2008[&!color=#ff00ff]
+	1007806-HM172113__A_chicken_Shanxi_10_2006__H5N1__China__2006[&!color=#ff00ff]
+	1007808-HM172094__A_chicken_Xinjiang_53_2005__H5N1__China__2005[&!color=#996633!name="172099"]
+	1007809-HM172099__A_chicken_Xinjiang_67_2005__H5N1__China__2005[&!color=#996633!name="172099"]
+	1007814-HM172078__A_chicken_Liaoning_A_1_2007__H5N1__China__2007[&!color=#ff00ff]
+	1007815-HM172077__A_chicken_Liaoning_A_11_2006__H5N1__China__2006
+	1007816-HM172076__A_chicken_Ningxia_24_2006__H5N1__China__2006
+	1007818-HM172073__A_chicken_Shandong_A_10_2006__H5N1__China__2006[&!color=#ff00ff]
+	1007819-HM172103__A_chicken_Xinjiang_78_2005__H5N1__China__2005[&!color=#996633!name="172102"]
+	1007829-HM172082__A_chicken_Shandong_A_5_2006__H5N1__China__2006
+	1007831-HM172111__A_chicken_Xinjiang_54_2005__H5N1__China__2005[&!color=#996633!name="172102"]
+	1007832-HM172106__A_chicken_Xinjiang_68_2005__H5N1__China__2005[&!color=#996633!name="172102"]
+	1007841-HM172081__A_chicken_Hebei_A_8_2009__H5N1__China__2009[&!color=#ff00ff]
+	1007842-HM172080__A_chicken_Henan_A_7_2006__H5N1__China__2006[&!color=#ff00ff]
+	1007843-HM172108__A_chicken_Xinjiang_16_2005__H5N1__China__2005[&!color=#996633!name="172102"]
+	1007844-HM172102__A_chicken_Xinjiang_17_2005__H5N1__China__2005[&!color=#996633!name="172102"]
+	1007845-HM172091__A_chicken_Xinjiang_27_2006__H5N1__China__2006[&!color=#996633!name="172099"]
+	1007846-HM172090__A_chicken_Xinjiang_28_2006__H5N1__China__2006[&!color=#ff00ff]
+	1013973-JQ277225__A_chicken_Sheny_0606_2008__H5N1__China__2008-06-06
+	1014590-EU243133__A_chicken_Hebei_102_2005__H5N1__China__2005[&!color=#000000]
+	1014591-EU243146__A_chicken_Hebei_126_2005__H5N1__China__2005[&!color=#000000]
+	1014913-JQ041399__A_duck_Hebei_0908_2009__H5N2__China__2009-08[&!color=#996633]
+	1014914-JQ041400__A_chicken_Hebei_1102_2010__H5N2__China__2010-12[&!color=#996633!name="719459"]
+	1018395-KF150634__A_chicken_Jiangsu_1001_2013__H5N2__China__2013-04-12[&!color=#996633!name="645959"]
+	1018739-KC683522__A_swine_Jiangsu_1_2008__H5N1__China__2008-12
+	1019177-JX534549__A_wild_duck_Shandong_1_2011__H5N1__China__2011-04-12
+	1019506-KF638579__A_chicken_Ningxia_222_2012__H5N1__China__2012-04-13[&!color=#996633!name="638579"]
+	1021590-KJ174937__A_chicken_Henan_Q7_2013__H5N2__China__2013-07-04
+	1024081-KJ719459__A_chicken_Hebei_1102_MA_2010__H5N2__China__2010-05[&!color=#996633!name="719459"]
+	1027120-KP000007__A_chicken_Chiping_0321_2014__H5N2__China__2014-03-21
+	1027121-KP000015__A_chicken_Laiwu_0313_2014__H5N2__China__2014-03-13
+	1027122-KP000023__A_chicken_Shijiazhuang_1209_2013__H5N2__China__2013-12-09
+	1027152-KJ683880__A_chicken_Qingdao_1_2014__H5N2__China__2014-01-16
+	1031519-KU143255__A_chicken_Wenzhou_HAYXLG03_2015__H5N2__China__2015-01
+	1037460-KX160201__A_chicken_Shandong_S3_2014__H5N2__China__2014-01-23
+	1037461-KX160193__A_chicken_Ningxia_2_2012__H5N1__China__2012-03-07[&!color=#996633!name="638579"]
+	1037462-KX160186__A_chicken_Liaoning_S4092_2011__H5N1__China__2011-11-11
+	1037463-KX160179__A_chicken_Heilongjiang_S7_2014__H5N2__China__2014-08-06
+	1037464-KX160164__A_chicken_Hebei_3_2013__H5N2__China__2013-12-21
+	1037465-KX160156__A_chicken_Gansu_6_2012__H5N1__China__2012-06-05[&!color=#996633!name="160148"]
+	1037466-KX160148__A_chicken_Gansu_5_2012__H5N1__China__2012-06-03[&!color=#996633!name="160148"]
+	1045480-MF116312__A_chicken_China_E93_2012__H5N1__China__2012-07-10[&!color=#996633!name="163113"]
+	1045481-MF116313__A_chicken_China_E96_2012__H5N1__China__2012-07-10[&!color=#996633!name="163113"]
+	1049871-KY437791__A_chicken_Jiangsu_XZ216_2014__H5N2__China__2014-03-24[&!color=#000000]
+	1049872-KY437799__A_chicken_Beijing_BJ7_2014__H5N2__China__2014-10-01
+	28696-HQ677023__A_chicken_Huadong_4_2008__H5N1__China__2008-12
+	EPI_ISL_169393-EPI553223__A_Chicken_Shandong_J02_2009__H5N1__China__2009-09-01[&!color=#996633!name="553276"]
+	EPI_ISL_169416-EPI553276__A_Chicken_Shandong_J03_2009__H5N1__China__2009-09-01[&!color=#996633!name="553276"]
+	EPI_ISL_169417-EPI553284__A_Chicken_Shandong_J04_2009__H5N1__China__2009-09-01[&!color=#996633!name="553284"]
+	EPI_ISL_169418-EPI553292__A_Chicken_Shandong_J05_2009__H5N1__China__2009-09-01[&!color=#996633!name="553284"]
+	EPI_ISL_180472-EPI593013__A_environment_Guizhou_00320_2013__H5N1__China__2013-02-10
+	EPI_ISL_180754-EPI594523__A_environment_Hubei_950_2013__H5N1__China__2013-02-26
+	EPI_ISL_196570-EPI645959__A_environment_Jiangsu_WX1761_2014__H5N2__China__2014-04-18[&!color=#996633!name="645959"]
+	EPI_ISL_198786-EPI656794__A_duck_Hunan_01_16_YYGK221_P_2014__H5N2__China__2014-01-16[&!color=#000000]
+	EPI_ISL_199150-EPI659551__A_chicken_Shandong_01_20_FZ_CK_2013__H5N2__China__2013-01-20[&!color=#996633!name="659567"]
+	EPI_ISL_199152-EPI659567__A_chicken_Shandong_12_05_HK_CK_2013__H5N2__China__2013-12-05[&!color=#996633!name="659567"]
+	EPI_ISL_201792-EPI672774__A_wildfowl_China_472_2014__H5N2__China__2014-01-20
+	EPI_ISL_219845-EPI750017__A_Environment_Hunan_18328_2014__H5N2__China__2014-02-28[&!color=#000000]
+	WM1069-DQ992802__A_duck_Yunnan_5236_2005__H5N1__China__2005[&!color=#996633!name="992805"]
+	WM1086-DQ992794__A_goose_Yunnan_3315_2005__H5N1__China__2005[&!color=#000000]
+	WM1093-DQ992805__A_goose_Yunnan_5539_2005__H5N1__China__2005[&!color=#996633!name="992805"]
+	WM1113-EU243126__A_chicken_Hebei_706_2005__H5N1__China__2005[&!color=#000000]
+	WM387-DQ997156__A_chicken_Hubei_wo_2003__H5N1__China__2003
+	WM677-AY741217__A_tree_sparrow_Henan_2_2004__H5N1__China__2004
+	WM694-DQ997076__A_swine_Anhui_cb_2004__H5N1__China__2004
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((((((((((((((((((1018395-KF150634__A_chicken_Jiangsu_1001_2013__H5N2__China__2013-04-12[&!color=#808080]:0.010012EPI_ISL_196570-EPI645959__A_environment_Jiangsu_WX1761_2014__H5N2__China__2014-04-18[&!color=#808080]:0.011862)[&!color=#808080]:0.006169EPI_ISL_169418-EPI553292__A_Chicken_Shandong_J05_2009__H5N1__China__2009-09-01[&!color=#808080]:0.003705)[&!color=#808080]:5.32E-4((1037462-KX160186__A_chicken_Liaoning_S4092_2011__H5N1__China__2011-11-11[&!color=#808080]:0.003644EPI_ISL_169417-EPI553284__A_Chicken_Shandong_J04_2009__H5N1__China__2009-09-01[&!color=#808080]:0.004871)[&!color=#808080]:5.86E-4EPI_ISL_180472-EPI593013__A_environment_Guizhou_00320_2013__H5N1__China__2013-02-10[&!color=#808080]:0.008571)[&!color=#808080]:6.05E-4)[&!color=#808080]:2.0E-6((1037461-KX160193__A_chicken_Ningxia_2_2012__H5N1__China__2012-03-07[&!color=#808080]:2.0E-61037466-KX160148__A_chicken_Gansu_5_2012__H5N1__China__2012-06-03[&!color=#808080]:0.001207)[&!color=#808080]:2.0E-61019506-KF638579__A_chicken_Ningxia_222_2012__H5N1__China__2012-04-13[&!color=#808080]:6.03E-4)[&!color=#808080]:0.007918)[&!color=#808080]:0.001206((((1045480-MF116312__A_chicken_China_E93_2012__H5N1__China__2012-07-10[&!color=#808080]:0.001211045481-MF116313__A_chicken_China_E96_2012__H5N1__China__2012-07-10[&!color=#808080]:0.003622)[&!color=#808080]:5.17E-41037465-KX160156__A_chicken_Gansu_6_2012__H5N1__China__2012-06-05[&!color=#808080]:0.003698)[&!color=#808080]:0.006753((1019177-JX534549__A_wild_duck_Shandong_1_2011__H5N1__China__2011-04-12[&!color=#808080]:2.0E-61049871-KY437791__A_chicken_Jiangsu_XZ216_2014__H5N2__China__2014-03-24[&!color=#808080]:0.006049)[&!color=#808080]:0.001258EPI_ISL_169393-EPI553223__A_Chicken_Shandong_J02_2009__H5N1__China__2009-09-01[&!color=#808080]:0.006733)[&!color=#808080]:5.94E-4)[&!color=#808080]:2.0E-6EPI_ISL_169416-EPI553276__A_Chicken_Shandong_J03_2009__H5N1__China__2009-09-01[&!color=#808080]:0.006674)[&!color=#808080]:6.16E-4)[&!color=#808080]:5.98E-4((((((((1027152-KJ683880__A_chicken_Qingdao_1_2014__H5N2__China__2014-01-16[&!color=#808080]:6.04E-41037460-KX160201__A_chicken_Shandong_S3_2014__H5N2__China__2014-01-23[&!color=#808080]:6.02E-4)[&!color=#808080]:0.0024311027120-KP000007__A_chicken_Chiping_0321_2014__H5N2__China__2014-03-21[&!color=#808080]:0.003019)[&!color=#808080]:0.0012111031519-KU143255__A_chicken_Wenzhou_HAYXLG03_2015__H5N2__China__2015-01[&!color=#808080]:6.0E-4)[&!color=#808080]:0.002425(((1027121-KP000015__A_chicken_Laiwu_0313_2014__H5N2__China__2014-03-13[&!color=#808080]:0.006728EPI_ISL_198786-EPI656794__A_duck_Hunan_01_16_YYGK221_P_2014__H5N2__China__2014-01-16[&!color=#808080]:0.006123)[&!color=#808080]:0.001163EPI_ISL_199150-EPI659551__A_chicken_Shandong_01_20_FZ_CK_2013__H5N2__China__2013-01-20[&!color=#808080]:0.006071)[&!color=#808080]:2.0E-6EPI_ISL_199152-EPI659567__A_chicken_Shandong_12_05_HK_CK_2013__H5N2__China__2013-12-05[&!color=#808080]:0.001806)[&!color=#808080]:2.0E-6)[&!color=#808080]:7.22E-41037464-KX160164__A_chicken_Hebei_3_2013__H5N2__China__2013-12-21[&!color=#808080]:0.012967)[&!color=#808080]:5.34E-41037463-KX160179__A_chicken_Heilongjiang_S7_2014__H5N2__China__2014-08-06[&!color=#808080]:0.011227)[&!color=#808080]:0.004187((1027122-KP000023__A_chicken_Shijiazhuang_1209_2013__H5N2__China__2013-12-09[&!color=#808080]:0.0067481049872-KY437799__A_chicken_Beijing_BJ7_2014__H5N2__China__2014-10-01[&!color=#808080]:0.003604)[&!color=#808080]:0.0061151021590-KJ174937__A_chicken_Henan_Q7_2013__H5N2__China__2013-07-04[&!color=#808080]:0.009725)[&!color=#808080]:3.0E-6)[&!color=#808080]:0.006682(EPI_ISL_180754-EPI594523__A_environment_Hubei_950_2013__H5N1__China__2013-02-26[&!color=#808080]:0.006117EPI_ISL_219845-EPI750017__A_Environment_Hunan_18328_2014__H5N2__China__2014-02-28[&!color=#808080]:0.009371)[&!color=#808080]:0.008699)[&!color=#808080]:6.27E-4)[&!color=#808080]:0.019451EPI_ISL_201792-EPI672774__A_wildfowl_China_472_2014__H5N2__China__2014-01-20[&!color=#808080]:0.011954)[&!color=#808080]:3.75E-4((1014914-JQ041400__A_chicken_Hebei_1102_2010__H5N2__China__2010-12[&!color=#808080]:2.0E-61024081-KJ719459__A_chicken_Hebei_1102_MA_2010__H5N2__China__2010-05[&!color=#808080]:5.97E-4)[&!color=#808080]:0.0258081007841-HM172081__A_chicken_Hebei_A_8_2009__H5N1__China__2009[&!color=#808080]:0.011703)[&!color=#808080]:5.75E-4)[&!color=#808080]:0.002384(((1014913-JQ041399__A_duck_Hebei_0908_2009__H5N2__China__2009-08[&!color=#808080]:0.00306228696-HQ677023__A_chicken_Huadong_4_2008__H5N1__China__2008-12[&!color=#808080]:0.002373)[&!color=#808080]:0.0055871007805-HM172092__A_chicken_Jiangsu_18_2008__H5N1__China__2008[&!color=#808080]:0.004961)[&!color=#808080]:5.14E-41018739-KC683522__A_swine_Jiangsu_1_2008__H5N1__China__2008-12[&!color=#808080]:0.001779)[&!color=#808080]:0.002731)[&!color=#808080]:0.008745((1004822-GU182230__A_environment_Hunan_1_12_2007__H5N1__China__2007-03[&!color=#808080]:0.0036031004819-GU182222__A_environment_Hunan_1_35_2007__H5N1__China__2007-03[&!color=#808080]:2.0E-6)[&!color=#808080]:8.32E-41004816-GU182238__A_environment_Hunan_2_16_2007__H5N1__China__2007-04[&!color=#808080]:0.002162)[&!color=#808080]:0.005443)[&!color=#808080]:0.0075961007818-HM172073__A_chicken_Shandong_A_10_2006__H5N1__China__2006[&!color=#808080]:0.011413)[&!color=#808080]:0.001691007815-HM172077__A_chicken_Liaoning_A_11_2006__H5N1__China__2006[&!color=#808080]:0.008236)[&!color=#808080]:0.002618((1004460-EU195408__A_mallard_Huadong_hn_2005__H5N1__China__2005[&!color=#808080]:0.003661007814-HM172078__A_chicken_Liaoning_A_1_2007__H5N1__China__2007[&!color=#808080]:0.007321)[&!color=#808080]:0.001136WM1113-EU243126__A_chicken_Hebei_706_2005__H5N1__China__2005[&!color=#808080]:0.002379)[&!color=#808080]:0.001193)[&!color=#808080]:2.0E-6(((1001082-DQ914814__A_chicken_Shanxi_2_2006__H5N1__China__2006[&!color=#808080]:0.0011891007842-HM172080__A_chicken_Henan_A_7_2006__H5N1__China__2006[&!color=#808080]:0.007198)[&!color=#808080]:2.0E-6(1007816-HM172076__A_chicken_Ningxia_24_2006__H5N1__China__2006[&!color=#808080]:0.0066031007829-HM172082__A_chicken_Shandong_A_5_2006__H5N1__China__2006[&!color=#808080]:0.006616)[&!color=#808080]:5.89E-4)[&!color=#808080]:2.0E-61014591-EU243146__A_chicken_Hebei_126_2005__H5N1__China__2005[&!color=#808080]:0.004772)[&!color=#808080]:0.002377)[&!color=#808080]:2.0E-61007806-HM172113__A_chicken_Shanxi_10_2006__H5N1__China__2006[&!color=#808080]:0.018415)[&!color=#808080]:0.0020341014590-EU243133__A_chicken_Hebei_102_2005__H5N1__China__2005[&!color=#808080]:0.010656)[&!color=#808080]:0.0056311004264-DQ343150__A_chicken_Hebei_326_2005__H5N1__China__2005[&!color=#808080]:0.003149)[&!color=#808080]:0.0133431001160-EF587277__A_Beijing_01_2003__H5N1__China__2003[&!color=#808080]:0.006127)[&!color=#808080]:0.00236((((((((1002012-EU430496__A_domestic_green_winged_teal_Hunan_67_2005__H5N1__China__2005[&!color=#808080]:2.0E-61002161-EU430511__A_domestic_green_winged_teal_Hunan_79_2005__H5N1__China__2005[&!color=#808080]:5.91E-4)[&!color=#808080]:0.001183WM1086-DQ992794__A_goose_Yunnan_3315_2005__H5N1__China__2005[&!color=#808080]:0.003589)[&!color=#808080]:2.0E-6(WM1069-DQ992802__A_duck_Yunnan_5236_2005__H5N1__China__2005[&!color=#808080]:6.35E-4WM1093-DQ992805__A_goose_Yunnan_5539_2005__H5N1__China__2005[&!color=#808080]:6.04E-4)[&!color=#808080]:0.009354)[&!color=#808080]:0.001796(((1007845-HM172091__A_chicken_Xinjiang_27_2006__H5N1__China__2006[&!color=#808080]:0.0018051007846-HM172090__A_chicken_Xinjiang_28_2006__H5N1__China__2006[&!color=#808080]:0.004198)[&!color=#808080]:0.0017761007808-HM172094__A_chicken_Xinjiang_53_2005__H5N1__China__2005[&!color=#808080]:0.004798)[&!color=#808080]:2.0E-61007809-HM172099__A_chicken_Xinjiang_67_2005__H5N1__China__2005[&!color=#808080]:5.92E-4)[&!color=#808080]:0.007206)[&!color=#808080]:5.75E-41007819-HM172103__A_chicken_Xinjiang_78_2005__H5N1__China__2005[&!color=#808080]:0.004169)[&!color=#808080]:5.93E-41007831-HM172111__A_chicken_Xinjiang_54_2005__H5N1__China__2005[&!color=#808080]:5.91E-4)[&!color=#808080]:2.0E-6(1007832-HM172106__A_chicken_Xinjiang_68_2005__H5N1__China__2005[&!color=#808080]:0.0024311013973-JQ277225__A_chicken_Sheny_0606_2008__H5N1__China__2008-06-06[&!color=#808080]:0.01972)[&!color=#808080]:5.36E-4)[&!color=#808080]:5.83E-4(1007843-HM172108__A_chicken_Xinjiang_16_2005__H5N1__China__2005[&!color=#808080]:0.0029841007844-HM172102__A_chicken_Xinjiang_17_2005__H5N1__China__2005[&!color=#808080]:0.003584)[&!color=#808080]:0.002408)[&!color=#808080]:0.002445)[&!color=#808080]:0.00518((WM694-DQ997076__A_swine_Anhui_cb_2004__H5N1__China__2004[&!color=#808080]:0.003059WM387-DQ997156__A_chicken_Hubei_wo_2003__H5N1__China__2003[&!color=#808080]:3.0E-5)[&!color=#808080]:0.002948WM677-AY741217__A_tree_sparrow_Henan_2_2004__H5N1__China__2004[&!color=#808080]:0.003631)[&!color=#808080]:0.00518)[&!color=#808080];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=554;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
