@@ -10,7 +10,7 @@
 2. MCC tree of Gs/GD H5N1 lineages in China (Fig. GsGD-MCC)
    - MCMC run and annotated by BEAST (`HA_gsgd_sam3.xml`)
    - HA sequences (n=369)
-   - Isolates in China were extracted from the alignment used in Fig. Geo(a), and the duplicated sequences were removed. Facilitated by an annotated tree labeled with (1) reference strains (2) groups containing viruses isolated in the same host or outbreak (`ha-gsgd.tre`), the alignment was subsampled by randomly selecting 25 isolate/group each year (`GsGD.R`, `_gsgd_subsample_.R`). Outliers were detected and removed before analyses by TempEst
+   - Isolates in China were extracted from the alignment used in Fig. Geo(a), and the duplicated sequences were removed. Facilitated by an annotated tree labeled with (1) reference strains (2) groups containing viruses isolated in the same host or outbreak (`ha-gsgd.tre`), the alignment was subsampled by randomly selecting 25 isolate/group each year (`GsGD.R`, `_gsgd_subsample_.R`). Outliers were detected and removed after analyses by TempEst
 
 3. Characterization of GsGD viruses in China based on available H5-HA sequences (Fig. Seq_info)
    - (a)(b)
